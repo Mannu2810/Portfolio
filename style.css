@@ -1,0 +1,21 @@
+h1{
+    color: blue;
+    text-decoration: underline;
+    text-align: center;
+}
+h3{
+    text-align: center;
+}
+div{
+    border: 2px blue solid;
+    width: 28%;
+    display: inline-block;
+    margin: 3px;
+    text-align: left;
+}
+body{
+text-align: center;
+}
+ul{
+    text-align: left;
+}
